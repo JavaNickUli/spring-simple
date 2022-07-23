@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24349187-e591-453b-90e7-0133520899c5" name="Changes" comment="Create service User">
-      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/springsimple/controllers/UserController.java" afterDir="false" />
+    <list default="true" id="24349187-e591-453b-90e7-0133520899c5" name="Changes" comment="Create controller User">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/uli/nick/springsimple/entities/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uli/nick/springsimple/entities/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658587731591</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Create controller User">
+      <created>1658588309994</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658588309994</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,6 +151,7 @@
     <MESSAGE value="Create entity User" />
     <MESSAGE value="Create repository User and fix User id" />
     <MESSAGE value="Create service User" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create service User" />
+    <MESSAGE value="Create controller User" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create controller User" />
   </component>
 </project>
