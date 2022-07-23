@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24349187-e591-453b-90e7-0133520899c5" name="Changes" comment="Project config init">
-      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/springsimple/entities/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="24349187-e591-453b-90e7-0133520899c5" name="Changes" comment="Create repository User and fix User id">
+      <change afterPath="$PROJECT_DIR$/src/main/java/uli/nick/springsimple/services/UserService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -99,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658584898695</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Create entity User">
+      <created>1658586442469</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658586442469</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Create repository User and fix User id">
+      <created>1658586663032</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658586663032</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +132,8 @@
     <MESSAGE value="Pom init" />
     <MESSAGE value="Add spring entrypoint" />
     <MESSAGE value="Project config init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Project config init" />
+    <MESSAGE value="Create entity User" />
+    <MESSAGE value="Create repository User and fix User id" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create repository User and fix User id" />
   </component>
 </project>
